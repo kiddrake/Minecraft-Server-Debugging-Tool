@@ -421,4 +421,4 @@ async def server_log_search(ctx, server, traceback_log_count, *args):
                 await ctx.send("```Done!```")
         file.close()
 
-client.run('NzgwNTgyMjQxMjM5MTcxMDcy.X7xL3A.OGS2b_6lw-CeKeMnmSwXgpjkl9w')
+client.run('Secret ;)')
